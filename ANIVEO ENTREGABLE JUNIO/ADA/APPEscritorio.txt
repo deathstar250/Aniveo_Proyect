@@ -1,0 +1,24 @@
+Vista 1 - "Inivio de sesio"
+- Login de aplicacion de escritorio(vista principal antes de entrar)
+ Contara con un textbox para colocar el usuario y un textbox para colocar la contraceñia. 
+Ademas debajo abra dos botones uno para ingresar y otr para cancelar.
+
+
+Vista 2 - "Pagina de inicio"
+- En la sigiente pagina se van a mostrar las opciones que va a tener el administrador, 
+se definen debajo las acciones establecidas. 
+2a Usuarios
+Alta usurio
+baja usurio
+lista usuario
+modificacion de datos de ususario
+Aata pelicula 
+Baja pelicula
+Alta contenido(textbox) y un radiobutton para saver si es serie o pelicula.
+ En caso de pelicula al avesre completado todo lo demas, se suve la peli y en caso de que sea
+ serie se suve la cantidad de capitulos por temporada.
+baja contenido(textbox)
+
+Comentarios: al apretar se va a ver todos los cometnarios creados y al lado de los comentarios se va a encontrar un boton para borarlo de la pagina y de la base de datos.
+
+ 
